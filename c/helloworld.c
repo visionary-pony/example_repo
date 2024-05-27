@@ -1,5 +1,5 @@
 // Adding a comment here
-// Adding anbother line here
+// Adding another comment
 #include <stdio.h>
 
 int main() {
